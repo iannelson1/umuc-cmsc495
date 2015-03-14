@@ -1,0 +1,27 @@
+.btn-upload {
+	background-image:url("../images/upload.png");
+}
+
+.btn-download {
+	background-image:url("../images/download.png");
+}
+
+.btn-delete {
+	background-image:url("../images/delete.png");
+}
+
+.btn-admin {
+	background-image:url("../images/admin.png");
+}
+
+.btn-logout {
+	background-image:url("../images/logout.png");
+}
+
+.btn-create {
+	background-image:url("../images/create.png");
+}
+
+.btn-edit {
+	background-image:url("../images/edit.png");
+}
